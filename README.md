@@ -27,10 +27,15 @@ Notes:
 (1)-the text files in the folder as : 
 
 1-bye
+
 2-dudi
+
 3-hello
+
 4-last
+
 5-output
+
 6-outputFile
 
 are just results from testing the program in the GUI

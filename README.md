@@ -22,3 +22,18 @@ application using multiple threads to do multiple actions simultaneously
 which will reduce the time elapsed.
 
 -GUI (real time update of this GUI) was created by using Eclipse IDE (MainFrame.java)
+
+Notes:
+(1)-the text files in the folder as : 
+
+1-bye
+2-dudi
+3-hello
+4-last
+5-output
+6-outputFile
+
+are just results from testing the program in the GUI
+
+(2)-When running the GUI to create the output file you need to add (.txt) after the name of the file for an example make it like this: (myfile.txt)
+
